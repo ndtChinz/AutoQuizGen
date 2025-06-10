@@ -10,6 +10,10 @@ AutoQuizGen là nền tảng tạo bài kiểm tra (quiz) tự động từ tài
 - Giao diện hiện đại, dễ sử dụng.
 - Hỗ trợ xác thực người dùng (có thể mở rộng).
 - Sử dụng OpenAI API để tóm tắt và sinh câu hỏi.
+## Giao diện AutoQuizGen
+![image](https://github.com/user-attachments/assets/2125dc2e-a509-4378-b593-1e370799be2c)
+![image](https://github.com/user-attachments/assets/1b77d1fe-eb0b-4d0d-b3b9-fa143f475621)
+![image](https://github.com/user-attachments/assets/6ff56aa1-1ef5-46b4-a818-dde044154891)
 
 ## Cấu trúc thư mục
 
