@@ -1,0 +1,55 @@
+# Node.js
+*/node_modules/*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# dotenv environment files
+.env
+.env.*
+server/.env
+server/.env.*
+
+# Build output
+dist/
+build/
+autoquizgen-client/dist/
+autoquizgen-client/build/
+server/uploads/
+server/coverage/
+
+# VSCode
+.vscode/
+.history/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Babel cache
+autoquizgen-client/node_modules/
+autoquizgen-client/.cache/
+autoquizgen-client/.babel_cache/
+
+# Misc
+*.swp
+*.bak
+*.tmp
+
+# Test coverage
+coverage/
+autoquizgen-client/coverage/
+server/coverage/
